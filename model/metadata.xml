@@ -5,7 +5,7 @@
     <edmx:DataServices m:DataServiceVersion="2.0">
         <Schema
             xmlns="http://schemas.microsoft.com/ado/2008/09/edm" Namespace="ZCAMERAUI5_SRV" xml:lang="fr" sap:schema-version="1">
-            <EntityType Name="Image" sap:content-version="1">
+            <EntityType Name="Image" sap:content-version="1"> 
                 <Key>
                     <PropertyRef Name="MyImage"/>
                 </Key>
